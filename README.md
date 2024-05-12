@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+Welcome to my OpenSeadragon Website! Compare pairs of images with a high level of detail.\
+(You can even play spot-the-difference!)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

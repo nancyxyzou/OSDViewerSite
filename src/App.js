@@ -14,7 +14,7 @@ function App() {
       <Router>
         <div style={{ display: 'flex' }}>
           <Routes>
-            <Route path="/" element ={<Viewer />} />
+            <Route path="/OSDViewer" element ={<Viewer />} />
           </Routes>
         </div>
       </Router>
