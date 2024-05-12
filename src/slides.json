@@ -1,0 +1,28 @@
+{
+    "slide1": {
+      "Image": {
+        "Url": "https://openslide-demo.s3.dualstack.us-east-1.amazonaws.com/aperio/cmu-1-jp2k-33005/slide_files/",
+        "xmlns": "http://schemas.microsoft.com/deepzoom/2008",
+        "Format": "jpeg",
+        "Overlap": "1",
+        "TileSize": "510",
+        "Size": {
+          "Height": "32893",
+          "Width": "46000"
+        }
+      }
+    },
+    "slide2": {
+      "Image": {
+        "Url": "https://openslide-demo.s3.dualstack.us-east-1.amazonaws.com/aperio/cmu-1-small-region/slide_files/",
+        "xmlns": "http://schemas.microsoft.com/deepzoom/2008",
+        "Format": "jpeg", 
+        "Overlap": "1", 
+        "TileSize": "510",
+        "Size": {
+            "Height": "2967",
+            "Width":  "2220"
+        }
+      }
+    }
+  }
