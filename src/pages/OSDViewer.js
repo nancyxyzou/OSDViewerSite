@@ -67,9 +67,9 @@ export const Viewer = () => {
                         id: 'osd-viewerL',
                         prefixUrl: 'https://openseadragon.github.io/openseadragon/images/',
                         tileSources: imageInfoL,
-                        showNavigator: true,
-                        navigatorWidth: '200px',
-                        navigatorHeight: '180px',
+                        // showNavigator: true,
+                        // navigatorWidth: '200px',
+                        // navigatorHeight: '180px',
                     });
                 }
                 else {
@@ -86,9 +86,9 @@ export const Viewer = () => {
                             id: 'osd-viewerR',
                             prefixUrl: 'https://openseadragon.github.io/openseadragon/images/',
                             tileSources: imageInfoR,
-                            showNavigator: true,
-                            navigatorWidth: '200px',
-                            navigatorHeight: '180px',
+                            // showNavigator: true,
+                            // navigatorWidth: '200px',
+                            // navigatorHeight: '180px',
                         });
                     }
                     // to avoid generating extra viewers: if right viewer already exists, destroy and create a new one
@@ -98,9 +98,9 @@ export const Viewer = () => {
                             id: 'osd-viewerR',
                             prefixUrl: 'https://openseadragon.github.io/openseadragon/images/',
                             tileSources: imageInfoR,
-                            showNavigator: true,
-                            navigatorWidth: '200px',
-                            navigatorHeight: '180px',
+                            // showNavigator: true,
+                            // navigatorWidth: '200px',
+                            // navigatorHeight: '180px',
                         });
                     }
                     else {
