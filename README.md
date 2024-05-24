@@ -1,5 +1,7 @@
 <<<<<<< HEAD
-Welcome to my OpenSeadragon Website! Compare pairs of images with a high level of detail.\
+# Welcome to [my OpenSeadragon Website](nancyxyzou.github.io/nancyxzou/osdsite)!
+
+Built with React and OpenSeadragon API to compare pairs of images with a high level of detail.\
 (You can even play spot-the-difference!)
 
 # Getting Started with Create React App
